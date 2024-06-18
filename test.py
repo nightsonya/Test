@@ -1,5 +1,5 @@
 import threading
-import pandas
+import pandas as pd
 
 print('threading')
 print("Hello World!")
